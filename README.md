@@ -112,8 +112,6 @@ Answer : 4676
  
 
 
-Provide your solutions in a word document and your tableau file in twbx format.
-
 
 
 
